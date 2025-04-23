@@ -1,9 +1,5 @@
 # Brute Force Attacks
 
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FEBo3xM85VHuQz7bXVonR%252Fimage.png%3Falt%3Dmedia%26token%3Db8296363-8251-4b7e-80b6-829d5eb16e0a&width=768&dpr=4&quality=100&sign=61d63b04&sv=2)
-
-# Brute Force Attacks
-
 > Bruteforce attacks are one of the oldest and most popular hacking techniques used by attackers to gain access to an account or system. Bruteforce attacks involve trying different combinations of passwords or other authentication tokens until one is successful. This type of attack can be used to gain access to accounts or systems or to reveal protected information.
 > 
 
