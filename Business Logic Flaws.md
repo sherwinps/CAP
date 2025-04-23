@@ -1,7 +1,3 @@
-# Business Logic Flaws
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252Fv9AK8jmoZKUIJvp3avTt%252Fimage.png%3Falt%3Dmedia%26token%3D4583a931-369d-4b89-b776-765803615ea0&width=768&dpr=4&quality=100&sign=798b299e&sv=2)
-
 Business logic flaws are errors in the way a system is designed or implemented that can have serious impacts on the system’s functionality. These flaws can range from incorrect calculations to incorrect authorization levels, and can lead to data breaches and financial losses. In this article, we’ll go over different types of business logic flaws and provide some best practices for avoiding them.
 
 # **Types of Business Logic Flaws**
