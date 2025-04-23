@@ -1,7 +1,3 @@
-# Privilege Escalation
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FnCSY1JZwQx39wl3s74gL%252Fimage.png%3Falt%3Dmedia%26token%3Dab55da96-b263-4b2e-a87d-cb82c72bb746&width=768&dpr=4&quality=100&sign=d8a3e1fe&sv=2)
-
 # **Privilege Escalation**
 
 > Privilege escalation is the process of exploiting a system vulnerability to gain higher-level permissions for an existing user account. This could be done by exploiting a bug in the system, using a back door, or by exploiting the administrator’s weak password.
