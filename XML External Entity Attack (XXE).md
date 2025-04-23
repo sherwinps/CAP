@@ -37,5 +37,3 @@ It is important to note that an XXE attack can be used to exploit a vulnerable X
 6. Check for the presence of a DTD in the XML document, as they can be used to enable XXE attacks.
 7. Use a Content Security Policy (CSP) to prevent attackers from exploiting XXE vulnerabilities.
 8. Use input validation to detect and prevent malicious entities from being parsed.
-
-[XSS Attack Example](https://www.notion.so/XSS-Attack-Example-1a377dd38d678012944ac10babf2db18?pvs=21)
