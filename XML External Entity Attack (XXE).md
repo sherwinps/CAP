@@ -1,7 +1,3 @@
-# XML External Entity Attack (XXE)
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FN1zPdMSM4NGxjQZ7fIWd%252Fimage.png%3Falt%3Dmedia%26token%3D2aafb75a-bd23-4c55-965d-45dcdacfdd3f&width=768&dpr=4&quality=100&sign=b9bd6ca1&sv=2)
-
 # XML External Entity (XXE)
 
 > XML External Entity (XXE) attack is a type of attack that exploits a vulnerability in an XML parser that is used to process XML documents. This vulnerability can be used by attackers to gain access to sensitive data within an XML file, or even to gain access to a network system.
