@@ -1,7 +1,5 @@
 # Understanding of OWASP Top 10 Vulnerabilities
 
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FLuQVRsDYdPUNwjJHrApw%252Fimage.png%3Falt%3Dmedia%26token%3Df87b5729-6dd9-42e1-8030-6b1ea2eb7497&width=768&dpr=4&quality=100&sign=29ef2617&sv=2)
-
 # **What is OWASP?**
 
 > Open Web Application Security Project (OWASP) is an open community dedicated to raising awareness about security. OWASP created the top 10 lists for various categories in security.
