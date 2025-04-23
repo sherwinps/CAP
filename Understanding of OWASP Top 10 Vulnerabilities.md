@@ -1,5 +1,3 @@
-# Understanding of OWASP Top 10 Vulnerabilities
-
 # **What is OWASP?**
 
 > Open Web Application Security Project (OWASP) is an open community dedicated to raising awareness about security. OWASP created the top 10 lists for various categories in security.
