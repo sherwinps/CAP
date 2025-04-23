@@ -1,7 +1,5 @@
 # Cross-Site Request Forgery (CSRF)
 
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FfrcjHIiO68QYIIGc4PFB%252Fimage.png%3Falt%3Dmedia%26token%3D4edce590-afc7-4c93-9a37-4c552c0db0eb&width=768&dpr=4&quality=100&sign=845495f6&sv=2)
-
 > Cross-Site Request Forgery (CSRF) is a type of attack which is carried out when an attacker tricks a user into sending a malicious request to a target website. This kind of attack is possible when a user is logged into a website and the attacker manipulates them into sending a request to the target website.
 > 
 
