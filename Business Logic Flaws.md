@@ -1,3 +1,5 @@
+# **Business Logic Flaws**
+
 Business logic flaws are errors in the way a system is designed or implemented that can have serious impacts on the system’s functionality. These flaws can range from incorrect calculations to incorrect authorization levels, and can lead to data breaches and financial losses. In this article, we’ll go over different types of business logic flaws and provide some best practices for avoiding them.
 
 # **Types of Business Logic Flaws**
