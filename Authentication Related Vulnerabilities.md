@@ -1,7 +1,3 @@
-# Authentication Related Vulnerabilities
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FcNJz5jxgRdVW4ZvyIl4z%252Fimage.png%3Falt%3Dmedia%26token%3Da7246e17-30c2-4102-b02a-851674207e5a&width=768&dpr=4&quality=100&sign=2e27e9f6&sv=2)
-
 # Authentication-Related Vulnerabilities
 
 > **Authentication-related vulnerabilities** are an important security concern for organizations today. A malicious actor can gain access to a system by exploiting a vulnerability in authentication systems, such as weak passwords or default credentials. By understanding these types of vulnerabilities, organizations can take proactive steps to protect themselves.
