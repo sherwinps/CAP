@@ -1,7 +1,3 @@
-# TLS Certificate Misconfiguration
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FKlixeNlkLggvaWJwUwqH%252Fimage.png%3Falt%3Dmedia%26token%3D678ce0b8-6160-4db4-ab33-42594669e6bb&width=768&dpr=4&quality=100&sign=3464e65d&sv=2)
-
 # **TLS Certificate Misconfiguration**
 
 > TLS Certificate misconfiguration is a security issue that occurs when a TLS certificate is improperly configured or used. This can lead to a variety of security issues, such as man-in-the-middle (MITM) attacks, data theft, and spoofing.
