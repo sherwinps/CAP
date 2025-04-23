@@ -1,7 +1,3 @@
-# Insecure File Uploads
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FwWhGgIeyGSi22rZeFZKi%252Fimage.png%3Falt%3Dmedia%26token%3D4c515365-9395-4c5e-9ef5-c57a0ee6b8a6&width=768&dpr=4&quality=100&sign=5365d3aa&sv=2)
-
 # **Insecure File Uploads**
 
 > File upload vulnerability is a common security issue found in web applications. Whenever the web server accepts a file without validating it or keeping any restriction, it is considered as an unrestricted file upload.
@@ -83,9 +79,3 @@ Insecure file uploads can be mitigated by following these steps:
 3. Validate that the uploaded file is of the expected type.
 4. Ensure that the uploaded files are stored securely.
 5. Perform regular scans of the uploaded files for malicious content.
-
-## Insecure File Uploads Test Example
-
-![image.png](image.png)
-
-![image.png](image%201.png)
