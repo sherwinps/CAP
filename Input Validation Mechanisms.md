@@ -1,7 +1,5 @@
 # Input Validation Mechanisms
 
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FM3bPwVIWXsf7ZCVD2dNS%252Fimage.png%3Falt%3Dmedia%26token%3D630fa778-398a-4468-bb47-0a0189092a37&width=768&dpr=4&quality=100&sign=aab32c74&sv=2)
-
 # Input Validation
 
 > **Input validation** is something that is used to limit the user input for attaining just the required functionality through input testing. Since some of the vulnerabilities like XSS, SQL Injection, SSTI, etc. are possible due to lack of implementation within input validation, it is necessary to understand what we are able to implement to prevent these vulnerabilities and prevent any of the **Confidentiality**, **Integrity**, and **Availability** issues. Since different programming languages offer different methods to validate the input, the mechanism of either **whitelisting** or **blacklisting** remains the same for all languages.
