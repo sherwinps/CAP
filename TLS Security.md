@@ -1,7 +1,3 @@
-# TLS Security
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FqXCERSHmUfEy9wx1BzVs%252Fimage.png%3Falt%3Dmedia%26token%3D62b25872-fbd5-4825-9df0-3f8a4611ceb3&width=768&dpr=4&quality=100&sign=a97bde4e&sv=2)
-
 # **Defining TLS Security**
 
 > TLS security, or Transport Layer Security, is a cryptographic protocol designed to provide secure communication between two parties, typically a client and a server. TLS is used to secure communication between a user's browser and a web server, and also to secure other types of communication such as email, file transfers, and virtual private networks (VPNs).
