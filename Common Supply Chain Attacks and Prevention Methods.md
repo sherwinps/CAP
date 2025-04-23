@@ -1,7 +1,5 @@
 # Common Supply Chain Attacks and Prevention Methods
 
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252F6ubyWegKA2ummZ8CLjmZ%252Fimage.png%3Falt%3Dmedia%26token%3D0a854f72-5d22-414e-85f3-d0f977f3985b&width=768&dpr=4&quality=100&sign=e9444d94&sv=2)
-
 # **Introduction**
 
 Supply chain security is an increasingly important issue as businesses become more and more reliant on technology to get the job done. As such, it is essential for businesses to understand the common types of supply chain attacks that have become increasingly prevalent in recent years and the best ways to protect themselves from them. This article will examine the various types of supply chain attacks, as well as the prevention and mitigation strategies that can be employed to help protect against them.
