@@ -1,7 +1,3 @@
-# Server-Side Request Forgery
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FN27h50Da9K6asAs8SaxR%252Fimage.png%3Falt%3Dmedia%26token%3Dde8a52c2-b646-4590-b4e4-50951d18572d&width=768&dpr=4&quality=100&sign=5957e81f&sv=2)
-
 # **Server-Side Request Forgery (SSRF)**
 
 > Server-Side Request Forgery (SSRF) is an attack method that enables an attacker to send requests from a vulnerable web application to internal or external systems. It can be used to bypass access controls or to access confidential data.

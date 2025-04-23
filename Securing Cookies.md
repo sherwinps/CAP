@@ -1,7 +1,3 @@
-# Securing Cookies
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252Fo4Ti1o7v3OIUVfs4gYzv%252Fimage.png%3Falt%3Dmedia%26token%3D37453281-6fe3-4c84-baad-2012b7f3ebc6&width=768&dpr=4&quality=100&sign=c7ce4f65&sv=2)
-
 # Securing Cookie
 
 > Securing Cookies is an important part of Application security. Cookies are a common target for attackers, as they often contain sensitive information. It is important to take a few steps to help protect your cookies from malicious actors.
