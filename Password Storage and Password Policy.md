@@ -1,7 +1,3 @@
-# Password Storage and Password Policy
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FCE5VKUT100iQ1MJpybRe%252Fimage.png%3Falt%3Dmedia%26token%3Dabc2b80a-ba94-411f-afa5-8c3617ea3649&width=768&dpr=4&quality=100&sign=4c0086a&sv=2)
-
 # **Password Storage and Password Policy**
 
 > Password storage and password policy are two important aspects of information security. Password storage refers to the practice of securely storing passwords so that they are not accessible to unauthorized individuals. This can be done through various methods, such as encryption, hashing, and salting.
