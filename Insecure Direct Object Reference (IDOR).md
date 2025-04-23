@@ -1,7 +1,3 @@
-# Insecure Direct Object Reference (IDOR)
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252Fj6tss4vOEHCdDmWlzWiL%252Fimage.png%3Falt%3Dmedia%26token%3D89092341-0a54-4892-abbc-bda71237046e&width=768&dpr=4&quality=100&sign=51616bea&sv=2)
-
 # **Insecure Direct Object Reference (IDOR)**
 
 > Insecure direct object reference (IDOR) is an attack vector used by malicious actors to gain access to data or resources that should otherwise remain hidden. IDOR occurs when a web application does not adequately check user input before allowing access to a protected resource. This type of attack can occur when an application uses a user-supplied identifier to access a resource without proper authorization checks.
