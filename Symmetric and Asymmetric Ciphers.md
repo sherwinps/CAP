@@ -1,7 +1,3 @@
-# Symmetric and Asymmetric Ciphers
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252Fb136IQ7IO5JMPlDJakIK%252Fimage.png%3Falt%3Dmedia%26token%3Dd09a41ae-85e5-41c5-a93e-74325314d5dc&width=768&dpr=4&quality=100&sign=a1142cf5&sv=2)
-
 # **History of Symmetric Ciphers**
 
 Symmetric ciphers, also known as secret key ciphers, have been used for centuries to securely encrypt and decrypt data. The first known symmetric cipher was the Caesar cipher, which was used by Julius Caesar to communicate with his generals in the Roman Empire. Since then, symmetric ciphers have been used in various forms, such as the Vigenère cipher and the Enigma machine.
