@@ -1,9 +1,5 @@
 # SQL Injection
 
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FCVSnb21lp6ddnBz9GFur%252Fimage.png%3Falt%3Dmedia%26token%3Db5ee3b4e-5adb-4e52-9e84-a63cd7ea8285&width=768&dpr=4&quality=100&sign=678783da&sv=2)
-
-# SQL Injection
-
 > SQL injection is a type of attack that takes advantage of the structure of SQL to inject malicious code into a web application. It is one of the most common security vulnerabilities in web applications and can cause data loss, system compromise, and other malicious activities.
 > 
 
