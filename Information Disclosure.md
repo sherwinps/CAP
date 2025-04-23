@@ -1,7 +1,5 @@
 # Information Disclosure
 
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FIPfIJaimAXUP0euJEuiY%252Fimage.png%3Falt%3Dmedia%26token%3D4d08e579-ffd2-414f-bc65-5089b7f73029&width=768&dpr=4&quality=100&sign=c77049c4&sv=2)
-
 # **Information Disclosure and its Types and Examples**
 
 > Information disclosure is a term used to refer to the intentional or unintentional release of information to a third party that is not authorized to have it. It can involve sensitive data such as passwords, financial information, and personal data. It can also involve confidential business information, trade secrets, and intellectual property.
