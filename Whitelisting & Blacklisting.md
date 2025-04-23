@@ -1,7 +1,5 @@
 # Whitelisting & Blacklisting
 
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FhjHVblvQfIkEtmUJyMhs%252Fimage.png%3Falt%3Dmedia%26token%3Ddf273718-c925-4e36-93ee-040e9dd259bd&width=768&dpr=4&quality=100&sign=aee8c160&sv=2)
-
 # **Blacklisting**
 
 > **Blacklisting** is the practice of only rejecting input that is known to be bad. This commonly involves rejecting input that contains content that is specifically known to be malicious by looking through the content for a number of “known bad” characters, strings, or patterns. This approach is generally weaker than whitelist validation because the list of potentially bad characters is extremely large, and as such any list of bad content is likely to be large, slow to run through, incomplete, and difficult to keep up to date.
