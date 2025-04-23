@@ -1,7 +1,5 @@
 # Code Injection Vulnerabilities
 
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FMQPBjYOYp5xPrztMEvU4%252Fimage.png%3Falt%3Dmedia%26token%3D58ffbdff-62ad-44e1-a6d1-6831d94df7ba&width=768&dpr=4&quality=100&sign=60d0830a&sv=2)
-
 # **Code injection**
 
 > **Code injection** is a type of attack in which an attacker injects malicious code into an application or system to execute arbitrary commands and gain unauthorized access to sensitive data. This type of attack is particularly dangerous because it can lead to data theft, system disruption, and even total system compromise.
