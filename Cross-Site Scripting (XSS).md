@@ -1,7 +1,3 @@
-# Cross-Site Scripting (XSS)
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FWzfZbcDrr64HS0MQuw7t%252Fimage.png%3Falt%3Dmedia%26token%3Df56f92b2-d8ca-409f-8573-2de5b5aa963d&width=768&dpr=4&quality=100&sign=84fcbeb5&sv=2)
-
 # Cross-Site Scripting
 
 > Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. It occurs when an attacker uses malicious code to inject a client-side script into a web page viewed by other users. This type of attack allows an attacker to manipulate how the web page is displayed for the viewer, and can potentially be used to gain access to user data or even inject malicious code into the web page itself.
