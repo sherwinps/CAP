@@ -1,7 +1,3 @@
-# Same Origin Policy
-
-[](https://rkive.gitbook.io/~gitbook/image?url=https%3A%2F%2F3577347090-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWrIcinZ87qSasUAtuqcU%252Fuploads%252FxR61a0sBO9PPNV6gFS0L%252Fimage.png%3Falt%3Dmedia%26token%3D31f754c8-67c5-4c60-b9f0-851218613e68&width=768&dpr=4&quality=100&sign=d1804eb&sv=2)
-
 # Same Origin Policy (SOP)
 
 > The Same Origin Policy (SOP) is an important security mechanism that enforces a browser's restrictions on scripts from different origins. This policy prevents malicious scripts from one domain from accessing data from a different domain.
